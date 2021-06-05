@@ -1,0 +1,90 @@
+nbBits= 4	compté=        13  réel=        10    compté/réel=130.00%
+nbBits= 4	compté=        93  réel=       100    compté/réel=93.00%
+nbBits= 4	compté=       948  réel=      1000    compté/réel=94.80%
+nbBits= 4	compté=     10611  réel=     10000    compté/réel=106.11%
+nbBits= 4	compté=     83948  réel=    100000    compté/réel=83.95%
+nbBits= 4	compté=   1480795  réel=   1000000    compté/réel=148.08%
+nbBits= 4	compté=   5053344  réel=  10000000    compté/réel=50.53%
+nbBits= 4	compté=  72660185  réel= 100000000    compté/réel=72.66%
+nbBits= 4	compté=1007449047  réel=1000000000    compté/réel=100.74%
+
+nbBits= 5	compté=        10  réel=        10    compté/réel=100.00%
+nbBits= 5	compté=       101  réel=       100    compté/réel=101.00%
+nbBits= 5	compté=      1140  réel=      1000    compté/réel=114.00%
+nbBits= 5	compté=      8673  réel=     10000    compté/réel=86.73%
+nbBits= 5	compté=    108212  réel=    100000    compté/réel=108.21%
+nbBits= 5	compté=   1121195  réel=   1000000    compté/réel=112.12%
+nbBits= 5	compté=  10905618  réel=  10000000    compté/réel=109.06%
+nbBits= 5	compté= 105850774  réel= 100000000    compté/réel=105.85%
+nbBits= 5	compté= 770985517  réel=1000000000    compté/réel=77.10%
+
+nbBits= 6	compté=        10  réel=        10    compté/réel=100.00%
+nbBits= 6	compté=       133  réel=       100    compté/réel=133.00%
+nbBits= 6	compté=      1058  réel=      1000    compté/réel=105.80%
+nbBits= 6	compté=      9845  réel=     10000    compté/réel=98.45%
+nbBits= 6	compté=     92681  réel=    100000    compté/réel=92.68%
+nbBits= 6	compté=   1055322  réel=   1000000    compté/réel=105.53%
+nbBits= 6	compté=  10798339  réel=  10000000    compté/réel=107.98%
+nbBits= 6	compté=  94744013  réel= 100000000    compté/réel=94.74%
+nbBits= 6	compté= 742255409  réel=1000000000    compté/réel=74.23%
+
+nbBits= 7	compté=        10  réel=        10    compté/réel=100.00%
+nbBits= 7	compté=       103  réel=       100    compté/réel=103.00%
+nbBits= 7	compté=      1038  réel=      1000    compté/réel=103.80%
+nbBits= 7	compté=      8437  réel=     10000    compté/réel=84.37%
+nbBits= 7	compté=    102361  réel=    100000    compté/réel=102.36%
+nbBits= 7	compté=   1094161  réel=   1000000    compté/réel=109.42%
+nbBits= 7	compté=  10847262  réel=  10000000    compté/réel=108.47%
+nbBits= 7	compté= 100734678  réel= 100000000    compté/réel=100.73%
+nbBits= 7	compté= 977599470  réel=1000000000    compté/réel=97.76%
+
+nbBits= 8	compté=        10  réel=        10    compté/réel=100.00%
+nbBits= 8	compté=       101  réel=       100    compté/réel=101.00%
+nbBits= 8	compté=       994  réel=      1000    compté/réel=99.40%
+nbBits= 8	compté=     11148  réel=     10000    compté/réel=111.48%
+nbBits= 8	compté=     95258  réel=    100000    compté/réel=95.26%
+nbBits= 8	compté=   1023176  réel=   1000000    compté/réel=102.32%
+nbBits= 8	compté=   9763247  réel=  10000000    compté/réel=97.63%
+nbBits= 8	compté=  95306942  réel= 100000000    compté/réel=95.31%
+nbBits= 8	compté= 930919512  réel=1000000000    compté/réel=93.09%
+
+nbBits= 9	compté=        10  réel=        10    compté/réel=100.00%
+nbBits= 9	compté=       102  réel=       100    compté/réel=102.00%
+nbBits= 9	compté=      1041  réel=      1000    compté/réel=104.10%
+nbBits= 9	compté=      8756  réel=     10000    compté/réel=87.56%
+nbBits= 9	compté=     96007  réel=    100000    compté/réel=96.01%
+nbBits= 9	compté=    956520  réel=   1000000    compté/réel=95.65%
+nbBits= 9	compté=   9888297  réel=  10000000    compté/réel=98.88%
+nbBits= 9	compté= 101778668  réel= 100000000    compté/réel=101.78%
+nbBits= 9	compté=1032390385  réel=1000000000    compté/réel=103.24%
+
+nbBits=10	compté=        10  réel=        10    compté/réel=100.00%
+nbBits=10	compté=       103  réel=       100    compté/réel=103.00%
+nbBits=10	compté=      1031  réel=      1000    compté/réel=103.10%
+nbBits=10	compté=     10059  réel=     10000    compté/réel=100.59%
+nbBits=10	compté=    103000  réel=    100000    compté/réel=103.00%
+nbBits=10	compté=    955092  réel=   1000000    compté/réel=95.51%
+nbBits=10	compté=  10358655  réel=  10000000    compté/réel=103.59%
+nbBits=10	compté=  97884431  réel= 100000000    compté/réel=97.88%
+nbBits=10	compté= 967127791  réel=1000000000    compté/réel=96.71%
+
+nbBits=11	compté=        10  réel=        10    compté/réel=100.00%
+nbBits=11	compté=       101  réel=       100    compté/réel=101.00%
+nbBits=11	compté=      1014  réel=      1000    compté/réel=101.40%
+nbBits=11	compté=     10122  réel=     10000    compté/réel=101.22%
+nbBits=11	compté=    100977  réel=    100000    compté/réel=100.98%
+nbBits=11	compté=   1003635  réel=   1000000    compté/réel=100.36%
+nbBits=11	compté=  10084568  réel=  10000000    compté/réel=100.85%
+nbBits=11	compté= 101862406  réel= 100000000    compté/réel=101.86%
+nbBits=11	compté= 993722952  réel=1000000000    compté/réel=99.37%
+
+nbBits=12	compté=        10  réel=        10    compté/réel=100.00%
+nbBits=12	compté=       100  réel=       100    compté/réel=100.00%
+nbBits=12	compté=       995  réel=      1000    compté/réel=99.50%
+nbBits=12	compté=     10264  réel=     10000    compté/réel=102.64%
+nbBits=12	compté=    100492  réel=    100000    compté/réel=100.49%
+nbBits=12	compté=    994847  réel=   1000000    compté/réel=99.48%
+nbBits=12	compté=   9834450  réel=  10000000    compté/réel=98.34%
+nbBits=12	compté=  98907798  réel= 100000000    compté/réel=98.91%
+nbBits=12	compté=1010017048  réel=1000000000    compté/réel=101.00%
+
