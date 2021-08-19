@@ -9,7 +9,7 @@ A small incursion in assembly will prevent porting on other arch than x86_64
 See example in test-hll.cpp and hyperloglog.cpp, the code is very short.
 Argument 'nbBits' to class'constructor must be within range (see source). Erroneous values are not correctly handled (assert)
 
-## Test sampe
+## Test sample
 Launch test-hll and see test-result.txt
 
 ## References

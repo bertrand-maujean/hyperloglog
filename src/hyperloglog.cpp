@@ -60,9 +60,13 @@ hyperLogLog_c::hyperLogLog_c(int nbBits_) {
 	reg    		= (uint64_t*)malloc(nbRegisters * sizeof(uint64_t));
 	memset(reg, 0, nbRegisters * sizeof(uint64_t));
 	rightMask   = (1UL << nbBits)-1; /* masque pour le n° du registre à MàJ */
-
-	//printf("rightMask=%d\n", rightMask);
 }
+
+
+void hyperLogLog_c::clear() {
+	memset(reg, 0, nbRegisters * sizeof(uint64_t));
+}
+
 
 hyperLogLog_c::~hyperLogLog_c() {
 	if (reg) free(reg);
@@ -73,8 +77,6 @@ void hyperLogLog_c::addElement(uint64_t h) {
 	uint64_t nReg = h & rightMask;
 	uint64_t nZ;
 
-	//printf("h=%llx ", h);
-
 	/* Il existe une instruction X86 toute faite pour compter les leading zero */
 	__asm__("movq     %1, %%rax     ;"
 			"lzcnt    %%rax, %%rax  ;"
@@ -82,10 +84,7 @@ void hyperLogLog_c::addElement(uint64_t h) {
 			: "=m" (nZ)
 			: "m"  (h)
 	);
-
 	if (reg[nReg]<nZ) reg[nReg] = nZ;
-	//printf("nreg=%d ", nReg);
-
 }
 
 void hyperLogLog_c::addElement(char*, size_t) {

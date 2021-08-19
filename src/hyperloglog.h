@@ -37,6 +37,7 @@ public:
 
 	void addElement(uint64_t);
 	void addElement(char*, size_t);
+	void clear();
 
 	int64_t count();
 
